@@ -1,6 +1,0 @@
-data/yellow_tripdata*
-data/clean_trips.parquet
-data/.sample.parquet
-database/taxi.db
-logs/
-.DS_Store
